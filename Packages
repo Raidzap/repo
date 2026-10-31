@@ -6,6 +6,38 @@ Author: Manual7
 Section: Tweaks
 Depends: mobilesubstrate, openssh-server, firmware (>= 15.0), firmware (<< 16.0)
 Architecture: iphoneos-arm
+Version: 0.7.10
+Installed-Size: 656
+Filename: debs/dev.manual7.camera_0.7.10_iphoneos-arm.deb
+Size: 166790
+MD5sum: 4c614b7639903e1e4569c66461f15eaf
+SHA1: 1a23bdef6bd3d27b077e6e9877c9280b228c70c0
+SHA256: 9a58aae55a7d39e8376ec5c1a483c5339e841043ff84cbc3b9545953e8993c91
+
+Package: dev.manual7.camera
+Name: Manual7
+Description: Manual photo/video camera, QR SSH pairing, and webcam with Bayer DNG, peaking, tracking, and 16:9/9:16 reframe for iPhone 7 Plus, iOS 15.
+Maintainer: Manual7
+Author: Manual7
+Section: Tweaks
+Depends: mobilesubstrate, openssh-server, firmware (>= 15.0), firmware (<< 16.0)
+Architecture: iphoneos-arm64
+Version: 0.7.10
+Installed-Size: 656
+Filename: debs/dev.manual7.camera_0.7.10_iphoneos-arm64.deb
+Size: 166848
+MD5sum: 3decfed7bbfacdfcbbecf1865e7c4b93
+SHA1: c3a5f5c376a910ef520b277cf00dd8d1a63cd90c
+SHA256: bf8e0b3efc996dcfd535962ae9436c02a8c4666fd5215e967ead30fc3e70b0b2
+
+Package: dev.manual7.camera
+Name: Manual7
+Description: Manual photo/video camera, QR SSH pairing, and webcam with Bayer DNG, peaking, tracking, and 16:9/9:16 reframe for iPhone 7 Plus, iOS 15.
+Maintainer: Manual7
+Author: Manual7
+Section: Tweaks
+Depends: mobilesubstrate, openssh-server, firmware (>= 15.0), firmware (<< 16.0)
+Architecture: iphoneos-arm
 Version: 0.7.9
 Installed-Size: 656
 Filename: debs/dev.manual7.camera_0.7.9_iphoneos-arm.deb
