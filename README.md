@@ -4,6 +4,8 @@ Fonte APT para Sileo e Zebra com os tweaks do Raidzap para iOS com jailbreak roo
 
 **Adicionar a fonte:** `https://raidzap.github.io/repo/`
 
+Serve jailbreaks rootless (`iphoneos-arm64`) e rootful (`iphoneos-arm`); o Sileo e o Zebra mostram só os pacotes da arquitetura do aparelho.
+
 No Sileo: **Fontes → + → Adicionar fonte**. Ou abra o endereço no Safari do iPhone e toque em **Adicionar ao Sileo** / **Adicionar ao Zebra**. As dependências vêm dos repositórios do bootstrap (Procursus).
 
 | Pacote | Projeto |

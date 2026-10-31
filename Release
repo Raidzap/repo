@@ -3,22 +3,22 @@ Label: Raidzap
 Suite: stable
 Codename: ios
 Version: 1.0
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Tweaks do Raidzap para iOS com jailbreak rootless.
-Date: Sat, 31 Oct 2026 00:10:07 GMT
+Date: Sat, 31 Oct 2026 01:39:48 GMT
 MD5Sum:
- eb085cdf13e5636b8e0ed24d3ac6d3b6 1247 Packages
- bb5e07c9c0ff5f7885d83d861479ce9b 555 Packages.gz
- 7285370c0e799819afa451b74a1b24ea 662 Packages.bz2
- 4655f77ec72a01abdac2b6d7b8e4771e 616 Packages.xz
+ a2893ebeea71d2cda007e68b27cdec5a 2491 Packages
+ e8cbe370f2ee3b7ee716225107cbcd32 764 Packages.gz
+ 1ba28d3a8a4f483937764dcd196cd60e 921 Packages.bz2
+ c944f7b245ceeb054da43ef6ba990d25 804 Packages.xz
 SHA1:
- 89581ed46ae70bd8f983ab49d41f99a0708dcc9f 1247 Packages
- a9714dc1d1e706b7208c78fa8f372eb782ba3c5b 555 Packages.gz
- 7fb2f51dca9555e492bf7c86a3b49a191eae1393 662 Packages.bz2
- 51b7a20411a8638b0018fe162d875442d1f9ba38 616 Packages.xz
+ 7ff4d899f2521aa3108e9c17f6b39ac4d8f7f805 2491 Packages
+ 784e95aea5c4006e40e7d454799036406eebb65b 764 Packages.gz
+ 010e54cd18da1ac3b6c41ca3eab825a59fbd2e27 921 Packages.bz2
+ 46ed63f6ffacfd4fbdd0fb5ff3b72209e42126fd 804 Packages.xz
 SHA256:
- 36596a3742bc05203184d125ef2aa3d1a4454516869811bfdf8c0f2b780d37ed 1247 Packages
- f4cd688482a5112618ca9cd52c47121653bad99da32d0a201d6596dc31c959eb 555 Packages.gz
- 20a533096e43024ee8375f757bfe20fe5f556507f83fea49bfa8e48df0ca0d12 662 Packages.bz2
- 4a6cc38e38a92233282ce84178763f1def43cedcfc3969db777dcdb6c4781610 616 Packages.xz
+ 20fd177b1963a27665f7a71f2bfcf3d438d9204755c5aa313afcbb9520c30ed1 2491 Packages
+ 6fddd45ef1f9f2fefdb2a305ea89158f949085413a72009a9245ecf6316d73cd 764 Packages.gz
+ 44ed2fb68153f3e4628c5ddfffe3b0d5287dd38efb91ebb40ccbc7c282389c21 921 Packages.bz2
+ 9565396916045caa78e1c5716fadd8040549ead9aaf20e206962e4d0e0abcf79 804 Packages.xz
